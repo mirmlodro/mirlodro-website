@@ -1,5 +1,6 @@
 ---
 title: "Education"
+date: 2024-08-26
 ---
 ## Education
 - **Ph.D. in Electrical and Electronic Engineering**, University of Nottingham, UK (2016-2021)
