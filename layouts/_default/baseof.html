@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ partial "head.html" . }} <!-- Includes the head partial for meta tags, CSS, and other head elements -->
+    <title>{{ .Title | default "My Website" }}</title> <!-- Dynamic title block -->
+</head>
+<body>
+    <!-- Header section including navigation and logo -->
+    {{ partial "header.html" . }}
+
+    <!-- Main content area -->
+    <main class="content">
+        {{ block "main" . }}{{ end }} <!-- Main content block, replaced by specific pages -->
+    </main>
+
+    <!-- Footer section, optional -->
+    {{ partial "footer.html" . }}
+
+    <!-- Optional: Add site-wide JavaScript here if needed -->
+    <script src="/scripts/main.js" defer></script>
+</body>
+</html>
+

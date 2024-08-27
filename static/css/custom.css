@@ -1,0 +1,79 @@
+/* styles/custom.css */
+
+.site-header {
+    background-color: black; /* Adjust background color as needed */
+    color: white; /* Adjust text color as needed */
+    padding: 1.5rem;
+}
+.content {
+    max-width: 800px;
+    margin: 20px auto; /* Adjust this margin to reduce space */
+    padding: 20px;
+    background: #fff;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+}
+/* Existing styles for the footer */
+footer {
+    /*background-color: whitesmoke; */ /* Example background color */
+    /*color: lightsteelblue; *//* Text color  */
+    text-align: center; /* Centered text */
+    padding: 5px 20px; /* Adjust padding to reduce space */
+    margin-top: 200px; /* Adjust margin to reduce space */
+    /*border-top: 1px solid #ccc;*/
+}
+.footer-list {
+    list-style-type: none; /* Removes bullets */
+    padding: 0; /* Removes padding */
+    margin: 0; /* Removes margin */
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.site-logo {
+    max-height: 50px; /* Adjust logo size as needed */
+    margin-right: 10px;
+}
+
+.main-nav {
+    display: inline-flex;
+    justify-content: flex-end; /* Align navigation to the right */
+    flex-grow: 1; /* Make the navigation flex item grow to take up space */
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 5px;
+    display: flex;
+}
+
+.nav-item {
+    margin: 1px 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white; /* Adjust link color as needed */
+}
+
+.nav-link[aria-current="page"] {
+    font-weight: bold; /* Optional: Style for the active page */
+}
+
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .main-nav {
+        display: none; /* Hide navigation on small screens, or implement a mobile menu */
+    }
+}

@@ -1,0 +1,60 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Welcome!"
+theme = "ananke"
+
+
+[params]
+  description = "Early-Career Researcher with a focus on RF Cyber Security, Wireless Communication, and Signal Processing."
+  author = "Mir Lodro"
+  dateFormat = "Jan 2, 2006"
+  favicon = "images/favicon.ico"
+  customCSS = ["css/custom.css"]  # This line includes your custom CSS
+  summaryLength = 70
+
+  backgroundColor = "#f5f5f5"
+  primaryColor = "#2c3e50"
+  secondaryColor = "#2980b9"
+  headerColor = "#34495e"
+  footerColor = "#2c3e50"
+  linkColor = "#2980b9"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Education"
+    url = "/education/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 7
+
+[params.logo]
+  src = "images/LodroMir.png"
+  alt = "Lodro Mir"
