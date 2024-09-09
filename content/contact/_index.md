@@ -7,15 +7,17 @@ date: 2024-08-26
 ***
 
 
+<span style="color:red">
 Feel free to reach out to me for research collaboration, consulting, or speaking engagements:
-
+</span>     
+<br><br><br>
 **Email**: [mir.lodro@bristol.ac.uk](mailto:mir.lodro@bristol.ac.uk), [mir.lodro@gmail.com](mailto:mir.lodro@gmail.com)
 
 **LinkedIn**: [linkedin.com/in/mirmuhammadlodro](https://www.linkedin.com/in/mirmuhammadlodro/)  
 
 **University of Bristol Profile**: [Dr. Mir Lodro](https://research-information.bris.ac.uk/en/persons/mir-lodro/similar/)  
 
-   
+<br>   
 
 **Address:** 
 

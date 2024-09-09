@@ -36,7 +36,7 @@
   I attended the EMSIG (Electromagnetic Sensing Interest Group) event at the University of Birmingham. The event included a series of talks and demonstrations on the latest advancements in electromagnetic sensing technologies, which are crucial for various applications, including healthcare and defense. Additionally, the organizing committee arranged a tour of the Radar Research Facility and the Microwave Integrated System Lab.
 
 - **6G Summit London Conference**  
-  I attended the 6G Summit held in London, a pivotal event bringing together industry leaders, researchers, and policymakers to discuss the future of 6G technology. The summit provided valuable insights into the emerging trends and challenges in the development of next-generation wireless communications.
+  I attended the 6G Summit held in London, a pivotal event bringing together industry leaders, researchers, and policymakers to discuss the future of 6G technology. The summit provided valuable insights into the emerging trends and challenges in the development of next-generation wireless communications. For more information, visit the [event page](https://global6gsummit.com/).
 
 
 
