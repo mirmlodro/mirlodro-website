@@ -8,7 +8,11 @@
     <loc>https://mirmlodro.github.io/mirlodro-website/contact/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>https://mirmlodro.github.io/mirlodro-website/gallery/</loc>
+=======
+    <loc>https://mirmlodro.github.io/mirlodro-website/education/</loc>
+>>>>>>> 1854bd8c8c985c8b49d1276c24da927c4217e401
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mirmlodro.github.io/mirlodro-website/</loc>
@@ -23,14 +27,15 @@
     <loc>https://mirmlodro.github.io/mirlodro-website/research/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>https://mirmlodro.github.io/mirlodro-website/services/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
+=======
+>>>>>>> 1854bd8c8c985c8b49d1276c24da927c4217e401
     <loc>https://mirmlodro.github.io/mirlodro-website/home/</loc>
   </url><url>
     <loc>https://mirmlodro.github.io/mirlodro-website/categories/</loc>
-  </url><url>
-    <loc>https://mirmlodro.github.io/mirlodro-website/education/</loc>
   </url><url>
     <loc>https://mirmlodro.github.io/mirlodro-website/tags/</loc>
   </url>
