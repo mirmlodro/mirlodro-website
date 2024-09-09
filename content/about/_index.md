@@ -4,7 +4,7 @@ date: 2024-08-26
 ---
 
 ## About
-
+***
 **Mir Lodro**  
 **Email**: [mir.lodro@gmail.com](mailto:mir.lodro@gmail.com), [mir.lodro@bristol.ac.uk](mailto:mir.lodro@bristol.ac.uk)  
 **LinkedIn**: [linkedin.com/in/mirmuhammadlodro](https://www.linkedin.com/in/mirmuhammadlodro/)
