@@ -30,8 +30,12 @@
   I attended an insightful talk titled delivered by Prof. Andy Sutton, a renowned expert in the telecommunications industry. The event focused on the latest innovations and future trends in the field of satellite communication particularly LEO constellations and the relevant challenges like spectrum management, space debris and direct to device deployments.
 =======
 - **New Space: The Future of Satellite Communications**
+<<<<<<< HEAD
  I attended an insightful talk titled delivered by Prof. Andy Sutton, a renowned expert in the telecommunications industry. The event focused on the latest innovations and future trends in the field of satellite communication particularly LEO constellations and the relevant challenges like spectrum management, space debris and direct to device deployments.
 >>>>>>> 1854bd8c8c985c8b49d1276c24da927c4217e401
+=======
+ I attended an insightful talk titled delivered by Prof. Andy Sutton, a renowned expert in the telecommunications industry. The event focused on the latest innovations and future trends in the field of satellite communication particularly LEO constellations and the relevant challenges like spectrum management, space debris and direct-to-device deployments.
+>>>>>>> 7ec8e5102a91fede860e99fd4670bfad374a500b
 
 - **NGMA-ETI 2nd QMUL 6G Workshop**  
   I also participated in the NGMA-ETI 2nd QMUL 6G Workshop, held at Queen Mary University of London. This workshop, organized by the Next Generation Mobile Applications and Emerging Technologies Integration (NGMA-ETI) committee, focused on the integration and advancement of 6G technologies. The event featured discussions on cutting-edge research, innovative applications, and collaborative opportunities in the field of 6G. For more details, visit the [event page](https://ngma.committees.comsoc.org/event/ngma-eti-2nd-qmul-6g-workshop/).
@@ -47,7 +51,8 @@
 ### May 2024
 - **EMSIG Event at the University of Birmingham**  
   I attended the EMSIG (Electromagnetic Sensing Interest Group) event at the University of Birmingham. The event included a series of talks and demonstrations on the latest advancements in electromagnetic sensing technologies, which are crucial for various applications, including healthcare and defense. Additionally, the organizing committee arranged a tour of the Radar Research Facility and the Microwave Integrated System Lab.
-
+- **IEEE DySPAN 2024**   
+  We presented our work on hardware prototyping of a hidden-node problem entitled "Evaluating Cooperative Spectrum Sensing A Hardware-in-the-Loop Approach" at the IEEE International Symposium on New Frontiers in Dynamic Spectrum Access Networks, DySPAN held in Washington, DC. The prototype was developed using an AMD UltraScale RFSoC 4x2 wideband transceiver and the Keysight RF channel emulator.
 - **6G Summit London Conference**  
   I attended the 6G Summit held in London, a pivotal event bringing together industry leaders, researchers, and policymakers to discuss the future of 6G technology. The summit provided valuable insights into the emerging trends and challenges in the development of next-generation wireless communications. For more information, visit the [event page](https://global6gsummit.com/).
 
