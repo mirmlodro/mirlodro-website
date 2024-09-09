@@ -5,6 +5,9 @@
     color: white; /* Adjust text color as needed */
     padding: 1.5rem;
 }
+.highlight {
+    color: red;
+}
 .content {
     max-width: 800px;
     margin: 20px auto; /* Adjust this margin to reduce space */

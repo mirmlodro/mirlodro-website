@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     {{ partial "head.html" . }} <!-- Includes the head partial for meta tags, CSS, and other head elements -->
     <title>{{ .Title | default "My Website" }}</title> <!-- Dynamic title block -->
+<link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}">
+<link rel="stylesheet" href="{{ "C:/Users/mirlo/mirlodro-website/css/custom.css" | relURL }}">
+
+
 </head>
+
 <body>
     <!-- Header section including navigation and logo -->
     {{ partial "header.html" . }}

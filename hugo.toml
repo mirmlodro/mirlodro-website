@@ -1,6 +1,6 @@
-baseURL = "https://mirmlodro.github.io/mirlodro-website/"
+baseURL = "https://mirmlodro.github.io/mirlodro-website"
 languageCode = "en-us"
-title = "Welcome!"
+title = "Mirlodro Website"
 theme = "ananke"
 
 
@@ -8,53 +8,61 @@ theme = "ananke"
   description = "Early-Career Researcher with a focus on RF Cyber Security, Wireless Communication, and Signal Processing."
   author = "Mir Lodro"
   dateFormat = "Jan 2, 2006"
-  favicon = "images/favicon.ico"
-  customCSS = ["css/custom.css"]  # This line includes your custom CSS
-  summaryLength = 70
+  favicon = "images/favicon.ico"  # Your site’s favicon
+  customCSS = ["css/custom.css"]  # Optional: for any custom styles you may want
+  summaryLength = 70  # Length of summaries on list pages
 
   backgroundColor = "#f5f5f5"
   primaryColor = "#2c3e50"
   secondaryColor = "#2980b9"
   headerColor = "#34495e"
   footerColor = "#2c3e50"
-  linkColor = "#2980b9"
+  linkColor = "#2980"
+[markup.goldmark.renderer]
+  unsafe = true
 
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "home/"
     weight = 1
 
   [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight = 2
 
   [[menu.main]]
     name = "Education"
-    url = "/education/"
+    url = "education/"
     weight = 3
 
   [[menu.main]]
     name = "Research"
-    url = "/research/"
+    url = "research/"
     weight = 4
 
   [[menu.main]]
     name = "Projects"
-    url = "/projects/"
+    url = "projects/"
     weight = 5
 
   [[menu.main]]
     name = "Publications"
-    url = "/publications/"
+    url = "publications/"
     weight = 6
 
   [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Projects"
+    url = "projects/"
     weight = 7
 
+  [[menu.main]]
+    name = "Contact"
+    url = "contact/"
+    weight = 8
+
+# Add the following to include a small logo in the navbar.
 [params.logo]
-  src = "images/LodroMir.png"
+  src = "/static/images/LodroMir.png"
   alt = "Lodro Mir"

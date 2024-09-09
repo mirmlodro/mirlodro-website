@@ -1,5 +1,37 @@
 /* styles/custom.css */
 
+/* CSS for text underline color */
+.underline-color {
+    text-decoration: underline;
+    text-decoration-color: #3498db; /* Blue underline, adjust color as needed */
+}
+
+/* Animation for text fade-in */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+.highlight-red {
+    color: red;
+}
+.highlight-royalblue {
+    color: royalblue;
+}
+.center-content {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.fade-in {
+    animation: fadeIn 2s ease-in-out;
+}
+
 .site-header {
     background-color: black; /* Adjust background color as needed */
     color: white; /* Adjust text color as needed */
