@@ -58,9 +58,19 @@ theme = "ananke"
     weight = 7
 
   [[menu.main]]
+    name = "Services"
+    url = "services/"
+    weight = 8
+
+  [[menu.main]]
+    name = "Gallery"
+    url = "gallery/"
+    weight = 9
+
+  [[menu.main]]
     name = "Contact"
     url = "contact/"
-    weight = 8
+    weight = 10
 
 # Add the following to include a small logo in the navbar.
 [params.logo]
