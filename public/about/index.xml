@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Mirlodro Website</title>
-    <link>http://localhost:1313/mirlodro-website/about/</link>
+    <link>https://mirmlodro.github.io/mirlodro-website/about/</link>
     <description>Recent content in About on Mirlodro Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/mirlodro-website/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mirmlodro.github.io/mirlodro-website/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
