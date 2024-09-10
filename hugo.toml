@@ -50,27 +50,23 @@ theme = "ananke"
     url = "publications/"
     weight = 6
 
-  [[menu.main]]
-    name = "Projects"
-    url = "projects/"
-    weight = 7
 
   [[menu.main]]
     name = "Services"
     url = "services/"
-    weight = 8
+    weight = 7
 
 
   [[menu.main]]
     name = "Gallery"
     url = "gallery/"
-    weight = 9
+    weight = 8
 
 
   [[menu.main]]
     name = "Contact"
     url = "contact/"
-    weight = 10
+    weight = 9
 
 
 [params.logo]
