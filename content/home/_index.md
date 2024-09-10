@@ -30,8 +30,6 @@
 - **6G Summit London Conference**  
   I attended the 6G Summit held in London, a pivotal event bringing together industry leaders, researchers, and policymakers to discuss the future of 6G technology. The summit provided valuable insights into the emerging trends and challenges in the development of next-generation wireless communications.
 
-
-
 - **Ofcom Event on Upper 6 GHz Workshop**  
   I also participated in an Ofcom-hosted event focusing on hybrid spectrum sharing. This event explored innovative approaches to spectrum management, ensuring efficient and effective use of this critical resource as we move towards more advanced communication networks.
 
