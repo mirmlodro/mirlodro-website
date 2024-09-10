@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Gallery"
 date: 2024-08-26
 ---
 
