@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/about/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/contact/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/education/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/gallery/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/projects/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/publications/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/research/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/education/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/services/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mirmlodro.github.io/mirlodro-website/home/</loc>
+  </url><url>
+    <loc>https://mirmlodro.github.io/mirlodro-website/categories/</loc>
+  </url><url>
+    <loc>https://mirmlodro.github.io/mirlodro-website/tags/</loc>
   </url>
 </urlset>
