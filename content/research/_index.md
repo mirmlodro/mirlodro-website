@@ -12,4 +12,4 @@ date: 2024-08-26
 - **MIMO Systems**: MIMO channel modeling, MIMO channel capacity, polarization diversity, MIMO channel estimation, beamforming
 - **Passive RF Sensor Design**: Developing RF sensors for drone detection and other novel applications using SDRs.
 - **Reconfigurable Intelligent Surfaces**: Focusing on KPI optimization for MIMO digital communication systems and algorithm development for intelligent surfaces.
-
+***  
