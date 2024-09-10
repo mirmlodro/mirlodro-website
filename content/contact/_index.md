@@ -16,7 +16,6 @@ Feel free to reach out to me for research collaboration, consulting, or speaking
 **LinkedIn**: [linkedin.com/in/mirmuhammadlodro](https://www.linkedin.com/in/mirmuhammadlodro/)  
 
 **University of Bristol Profile**: [Dr. Mir Lodro](https://research-information.bris.ac.uk/en/persons/mir-lodro/similar/)  
-
 <br>   
 
 **Address:** 

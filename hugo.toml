@@ -65,7 +65,7 @@ theme = "ananke"
   [[menu.main]]
     name = "Contact"
     url = "contact/"
-    weight = 10
+    weight = 9
 
 # Add the following to include a small logo in the navbar.
 [params.logo]
