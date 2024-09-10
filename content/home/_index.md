@@ -47,6 +47,7 @@
 
 - **IEEE DySPAN 2024**   
   We presented our work on hardware prototyping of a hidden-node problem entitled "Evaluating Cooperative Spectrum Sensing A Hardware-in-the-Loop Approach" at the IEEE International Symposium on New Frontiers in Dynamic Spectrum Access Networks, DySPAN held in Washington, DC. The prototype was developed using an AMD UltraScale RFSoC 4x2 wideband transceiver and the Keysight RF channel emulator.
+
 - **6G Summit London Conference**  
   I attended the 6G Summit held in London, a pivotal event bringing together industry leaders, researchers, and policymakers to discuss the future of 6G technology. The summit provided valuable insights into the emerging trends and challenges in the development of next-generation wireless communications. For more information, visit the [event page](https://global6gsummit.com/).
 
